@@ -1,6 +1,6 @@
 # aa-2024-group-3
 
-This is the repository of group 53 (Analytics Associates) for the AA Group Project for the course Analytics and Application in the winter term of 2024.
+This is the repository of group 3 (Analytics Associates) for the AA Group Project for the course Analytics and Application in the winter term of 2024.
 
 Prerequisites
 
