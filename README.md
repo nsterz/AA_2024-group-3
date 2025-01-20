@@ -63,7 +63,6 @@ The project includes the following deliverables:
    - Develop predictive models (e.g., neural networks and traditional statistical methods).
    - Compare model performance and propose business cases based on predictions.
 
-Refer to the course materials and syllabus for detailed submission guidelines.
 
 ## License
 
