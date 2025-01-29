@@ -10,19 +10,6 @@
 - **Janosch Hagenbeck** | 7431426
 - **Conrad Reintjes** | 7430921
 
-
-<div>
-    <span style="font-size: 20px; font-weight: bold;">Group Members:</span>
-    <ul>
-        <li>Tom Boerrigter | 7419077</li>
-        <li>Niklas Sterz | 7419545</li>
-        <li>Niklas Bockholt | 7380604</li>
-        <li>Janosch Hagenbeck | 7431426</li>
-        <li>Conrad Reintjes | 7430921</li>
-    </ul>
-</div>
-
-
 This is the repository of **Group 3 (Analytics Associates)** for the AA Group Project in the course **Analytics and Application** during the winter term of 2024/25.
 
 ## Project Objectives
