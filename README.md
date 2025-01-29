@@ -1,7 +1,15 @@
-<div style="display: flex; align-items: center; margin-bottom: 30px; color: #8EB944;">
-    <img src="https://wisoinbox.uni-koeln.de/images/wiso_button_en.png" width="80"> 
-    <span style="margin-left: 20px; font-size: 50px; font-weight:bold;">AA-2024-Group-3</span>
+<div style="display: flex; align-items: center;">
+    <img src="https://wisoinbox.uni-koeln.de/images/wiso_button_en.png" width="120" style="margin-right: 10px;">
+    <h1 style="margin: 0;">AA-2024-Group-3</h1>
 </div>
+
+## Group Members:
+- **Tom Boerrigter** | 7419077
+- **Niklas Sterz** | 7419545
+- **Niklas Bockholt** | 7380604
+- **Janosch Hagenbeck** | 7431426
+- **Conrad Reintjes** | 7430921
+
 
 <div>
     <span style="font-size: 20px; font-weight: bold;">Group Members:</span>
