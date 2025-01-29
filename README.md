@@ -1,4 +1,19 @@
-# AA-2024-Group-3
+<div style="display: flex; align-items: center; margin-bottom: 30px; color: #8EB944;">
+    <img src="https://wisoinbox.uni-koeln.de/images/wiso_button_en.png" width="80"> 
+    <span style="margin-left: 20px; font-size: 50px; font-weight:bold;">AA-2024-Group-3</span>
+</div>
+
+<div>
+    <span style="font-size: 20px; font-weight: bold;">Group Members:</span>
+    <ul>
+        <li>Tom Boerrigter | 7419077</li>
+        <li>Niklas Sterz | 7419545</li>
+        <li>Niklas Bockholt | 7380604</li>
+        <li>Janosch Hagenbeck | 7431426</li>
+        <li>Conrad Reintjes | 7430921</li>
+    </ul>
+</div>
+
 
 This is the repository of **Group 3 (Analytics Associates)** for the AA Group Project in the course **Analytics and Application** during the winter term of 2024/25.
 
