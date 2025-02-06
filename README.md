@@ -53,7 +53,7 @@ By addressing these objectives, the project illustrates how data can be used to 
 
 ## Notebook Execution Order
 
-To ensure the analysis pipeline runs correctly, follow the execution order specified in the notebook filenames:
+To ensure the analysis pipeline runs correctly, follow the execution order specified by the enumeration of the notebook filenames:
 
 **add it**
 
