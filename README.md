@@ -67,7 +67,7 @@ To ensure the analysis pipeline runs correctly, follow the execution order speci
 - `03_03_kmeans.ipynb`
 
 
-### 04_forecasting
+### 04_utilization_prediction
 - `04_01_Forecast_Preparation.ipynb`
 - `04_02_Neural_Network.ipynb`
 - `04_03_additive_timeseries.ipynb`
