@@ -55,9 +55,24 @@ By addressing these objectives, the project illustrates how data can be used to 
 
 To ensure the analysis pipeline runs correctly, follow the execution order specified by the enumeration of the notebook filenames:
 
-**add it**
+### 01_data_preparation
+- `01_data_preparation.ipynb`
 
-Each notebook builds on the outputs of the previous one.
+### 02_descriptive_analytics
+- `02_descriptive_analytics.ipynb`
+
+### 03_clustering
+- `03_01_feature_engineering.ipynb`
+- `03_02_hierarchical.ipynb`
+- `03_03_kmeans.ipynb`
+
+
+### 04_forecasting
+- `04_01_Forecast_Preparation.ipynb`
+- `04_02_Neural_Network.ipynb`
+- `04_03_additive_timeseries.ipynb`
+
+Each notebook builds on the outputs of the previous one. Ensure that you execute them in the specified order to maintain data consistency and achieve accurate results.
 
 ## Deliverables
 
